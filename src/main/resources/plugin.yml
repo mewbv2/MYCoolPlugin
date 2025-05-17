@@ -2,3 +2,12 @@ name: MYCoolPlugin
 version: '1.0-SNAPSHOT'
 main: io.mewb.mYCoolPlugin.MYCoolPlugin
 api-version: '1.21'
+
+commands:
+  farout:
+    description: 'This is a far out command'
+    usage: '/farout - Thats literally it'
+    permission: mycoolplugin.farout
+  aoelock:
+    description: 'To the moon!'
+    usage: '/aoelock <player>'
