@@ -1,0 +1,4 @@
+name: MYCoolPlugin
+version: '1.0-SNAPSHOT'
+main: io.mewb.mYCoolPlugin.MYCoolPlugin
+api-version: '1.21'
